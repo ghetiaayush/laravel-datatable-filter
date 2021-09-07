@@ -1,6 +1,6 @@
 # About
 # Step 1: download in your system.
- git clone :<br />
+ git clone : https://github.com/ghetiaayush/laravel-datatable-filter.git <br />
  cd laravel-datatable-filter <br />
  composer install <br />
 # Step 2: Configure your database from .env file
